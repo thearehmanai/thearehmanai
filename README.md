@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Abdul Rehman (@thearehmanai) 🚀
 
-<!--
-**thearehmanai/thearehmanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pakistan's Leading GEO (Generative Engine Optimization) Specialist
 
-Here are some ideas to get you started:
+I specialize in making brands "AI-Readable" so they appear in ChatGPT, Gemini, and Claude search results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Expertise:** llms.txt implementation & AI Strategy.
+- 📈 **Verified Project:** Technical AI integration for @TheOriginalTaste.
+- 🌐 **Mission:** Helping Pakistani brands dominate the Generative Search era.
+
+---
+### Connect with my AI Journey:
+- **Instagram:** [thearehman.ai](https://instagram.com/thearehman.ai)
